@@ -2,3 +2,5 @@ Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su si
 posicionarnos en la carpeta raíz de nuestro proyecto 
 y ejecutar el comando: git all
 y eso es todo
+Bueno esto es un cambio increible
+por que si 
